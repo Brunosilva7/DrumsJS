@@ -16,4 +16,4 @@ Basically the DrumsJS is an application which I've created with JavaScript basic
 
 ![WhatsApp Image 2022-04-20 at 23 07 25](https://user-images.githubusercontent.com/49591443/164368431-bef2b537-ccb6-4df0-b101-1625e60fb5bc.jpeg)
 
-- Finally the project is gonna excute the sequence of sounds which Ive written through the blank. 
+- Finally the project is gonna execute the sequence of sounds which Ive written through the blank. 
